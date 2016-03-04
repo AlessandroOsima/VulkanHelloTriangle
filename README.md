@@ -27,6 +27,6 @@ To render a triangle on vulkan you have to :
 * <a href="https://renderdoc.org/vulkan-in-30-minutes.html">Vulkan in 30 minutes</a>, a great overview on the vulkan API.
 * <a href="https://www.khronos.org/registry/vulkan/specs/1.0-wsi_extensions/pdf/vkspec.pdf">Vulkan specifications</a>, really well written, incredibly detailed and yet easy to understand.
 * <a href="http://lunarg.com/vulkan-sdk/">The LunarG SDK</a> for the api headers, loader, validation layers and samples.
-* <a href="https://github.com/SaschaWillems/Vulkan>Sascha Willems code samples</a>, a LOT of great samples.
+* <a href="https://github.com/SaschaWillems/Vulkan">Sascha Willems code samples</a>, a LOT of great samples.
 
 If you have any doubts or remarks, please contact me
